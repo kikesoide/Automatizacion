@@ -1,4 +1,4 @@
-Autor: @<Jorge Enrique Torres Esquivel>  :construction_worker:
+Autor: @Kikesoide  :construction_worker:
 # Getting started with Selenium and Cucumber
 
 [Tutorial de Serenity](https://www.udemy.com/course/selenium-con-java-y-cucumber-el-curso-definitivo/)
